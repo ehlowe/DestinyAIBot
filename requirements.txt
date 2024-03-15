@@ -1,2 +1,7 @@
 ipykernel
 requests
+tiktoken
+anthropic
+openai
+langchain
+chromadb
