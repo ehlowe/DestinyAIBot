@@ -5,3 +5,7 @@ anthropic
 openai
 langchain
 chromadb
+youtube-transcript-api
+faiss-cpu
+ipywidgets
+chat-downloader
